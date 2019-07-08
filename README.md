@@ -2,8 +2,7 @@
 
 # Analyzing competitive eating records
 
-By [Daphne Chen](mailto:dchen@gatehousemedia.com)
-[Twitter](https://twitter.com/daphnechen_)
+By [Daphne Chen](https://twitter.com/daphnechen_)
 
 Code for cleaning and analyzing competitive eating records ahead of the annual Nathan's Famous Hot Dot eating contest. Story can be found [here](http://gatehousenews.com/eatingcontests/).
 
